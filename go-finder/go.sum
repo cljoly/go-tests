@@ -1,0 +1,4 @@
+github.com/b4b4r07/go-finder v0.0.1 h1:btgrZHir6TcUIpFe/qdpNB1V5zFEbX3Qb3aE250BB/E=
+github.com/b4b4r07/go-finder v0.0.1/go.mod h1:TBc0wHBkU0kofzNTY5Fal+Giv8dk2qb2HNaGfcpER2w=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
